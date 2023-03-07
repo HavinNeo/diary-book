@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M-book</string>
+    <string name="book_menu">book_menu</string>
+    <string name="search">search</string>
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
